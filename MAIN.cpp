@@ -14,10 +14,11 @@
  istream truckFile;
  truckFile.open ("truckdata.txt")
   
- istream userFile;
- userFile.open ("userdata.txt")
+ //istream userFile;
+ //userFile.open ("userdata.txt")
  
  
+  
  system ("pause");
  return 0;
  }
