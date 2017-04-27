@@ -1,5 +1,8 @@
 #include <iostream>
- usingnamespace std;
+#include <fstream>
+#include <iomanip>
+
+ using namespace std;
  
  int main ()
  {
